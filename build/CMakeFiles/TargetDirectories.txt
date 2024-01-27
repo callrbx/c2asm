@@ -1,0 +1,3 @@
+/home/drew/Projects/UTPR/c2asm/build/CMakeFiles/c2asm.dir
+/home/drew/Projects/UTPR/c2asm/build/CMakeFiles/edit_cache.dir
+/home/drew/Projects/UTPR/c2asm/build/CMakeFiles/rebuild_cache.dir
